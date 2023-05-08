@@ -6,8 +6,8 @@
 4. **Fourth step**: Implemented filters and adjusted the design example to provide better user access, allowing users to clear filters and select one or multiple filters.
 
 ## Installation and Setup
-git clone <repository-url>
-cd <project-name>
-npm install
-npm start
+1. git clone https://github.com/yaraghi/GenePhenotypeExplorer
+2. cd GenePhenotypeExplorer
+3. npm install
+4. npm start
 
